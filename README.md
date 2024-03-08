@@ -1,2 +1,2 @@
-# Project-Rock-Paper-Scissors-
+# project-rps
 Game project
